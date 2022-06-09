@@ -1,0 +1,1 @@
+Open the Python file and change the path to the dataset provided in folder 'a' to generate forward and inverted index.
